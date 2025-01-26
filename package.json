@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "start:watch": "node --watch --env-file=.env server.js"
+    "start:watch": "node --watch --env-file=.env server2.js"
   },
   "keywords": [],
   "author": "",
